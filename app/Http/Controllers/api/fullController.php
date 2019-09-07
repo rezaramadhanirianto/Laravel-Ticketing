@@ -83,4 +83,8 @@ class fullController extends Controller
         return response()->json($data);
         
     }
+    public function search($kata){
+        
+        
+    }
 }
